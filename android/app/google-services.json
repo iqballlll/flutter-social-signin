@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "886242770968",
+    "project_id": "test-sign-11de4",
+    "storage_bucket": "test-sign-11de4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886242770968:android:94e70495343ed374d5836d",
+        "android_client_info": {
+          "package_name": "com.testsignin.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886242770968-suun0rbtmv2acaq59gna3a833gl22pe3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaFWoo5hvr6Dd_EGspG_VI8NPq846stF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886242770968-suun0rbtmv2acaq59gna3a833gl22pe3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
